@@ -1,0 +1,24 @@
+.navbar
+{
+    background-color: #abb8c3!important;
+    color: white!important;
+}
+.collapse ul li a
+{
+    color: white!important;
+    justify-content: flex-end;
+}
+.navbar-collapse 
+{
+    justify-content: flex-end;
+   
+}
+.col
+{
+    padding: 0px!important;
+}
+.offcanvas ul li a
+{
+    display: flex!important;
+    justify-content: center!important;
+}
